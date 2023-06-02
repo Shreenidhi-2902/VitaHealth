@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945025476237",
+    "project_id": "medi-e63d1",
+    "storage_bucket": "medi-e63d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945025476237:android:5adce56f813692733824c4",
+        "android_client_info": {
+          "package_name": "com.example.remicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945025476237-hi92jegb6a26so58q028jflvhtckpb3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiLbiDB0ogeFg4W2Wt6MhwqY3ivj6QGl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945025476237-hi92jegb6a26so58q028jflvhtckpb3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

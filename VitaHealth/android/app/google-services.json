@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163616530376",
+    "project_id": "eastern-rain-327713",
+    "storage_bucket": "eastern-rain-327713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163616530376:android:de6790eafc68f4057c2afd",
+        "android_client_info": {
+          "package_name": "com.example.remicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163616530376-mj4529295nn8c7305aabcvfgl629vpl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApQXCFeH_wAwHhVc4KDTT4fsXAApqLCys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163616530376-mj4529295nn8c7305aabcvfgl629vpl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
